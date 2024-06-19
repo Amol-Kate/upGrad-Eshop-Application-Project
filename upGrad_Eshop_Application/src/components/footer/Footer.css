@@ -1,0 +1,14 @@
+
+/* Styling for the footer element */
+.footer {
+    /* Fix the footer at the bottom of the viewport */
+    position: fixed;
+    /* Set the footer width to cover the entire viewport width */
+    width: 100%;
+    /* Position the footer at the very bottom of the viewport */
+    bottom: 0;
+    /* Add padding at the bottom of the footer */
+    padding-bottom: 5px;
+    /* Set the background color of the footer to white */
+    background: #ffffff;
+}

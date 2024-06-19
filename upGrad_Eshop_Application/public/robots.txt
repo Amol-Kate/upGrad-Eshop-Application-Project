@@ -1,0 +1,5 @@
+This will tells search engine crawlers which URLs the crawler can access on the website which will help to avoid overloading the site with many requests.
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:

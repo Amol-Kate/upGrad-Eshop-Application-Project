@@ -1,0 +1,12 @@
+/* 
+Styles for wrapping text with an ellipsis if it overflows its container.
+*/
+
+.wrap_text {
+    /* Hide overflowing text */
+    overflow: hidden;
+    /* Display an ellipsis (...) when text overflows */
+    text-overflow: ellipsis;
+    /* Prevent text from wrapping to the next line */
+    white-space: nowrap;
+}
